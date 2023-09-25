@@ -1,3 +1,3 @@
-# Software-Architecture-Group-10
+# Five and a Half Randos
 
 We're group 10 for CISC 322!
